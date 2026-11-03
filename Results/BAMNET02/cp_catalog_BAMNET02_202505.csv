@@ -1,0 +1,11 @@
+station_id,t0,cp_type,delta_T,delta_U,delta_P,duration_min,precip_30min_before,precip_start_before,precip_end_before,precip_30min_after,precip_start_after,precip_end_after
+BAMNET02,2025-05-01 22:35:00,wind_only,-0.09,1.582,1.04,0.0,0.0,,,0.0,,
+BAMNET02,2025-05-02 01:05:00,wind_only,-1.35,1.786,0.68,0.0,0.0,,,0.0,,
+BAMNET02,2025-05-02 02:35:00,wind_only,-2.35,3.144,0.0,0.0,0.0,,,0.0,,
+BAMNET02,2025-05-02 06:40:00,coldpool,-3.88,0.636,0.2,,0.0,,,0.0,,
+BAMNET02,2025-05-03 04:40:00,wind_only,-0.62,2.658,0.12,10.0,0.0,,,0.0,,
+BAMNET02,2025-05-03 08:05:00,wind_only,-0.91,2.106,0.04,0.0,0.0,,,0.0,,
+BAMNET02,2025-05-03 13:40:00,wind_only,-2.55,3.738,1.48,0.0,0.0,,,0.0,,
+BAMNET02,2025-05-04 03:45:00,wind_only,-2.38,2.044,0.04,0.0,0.0,,,0.0,,
+BAMNET02,2025-05-04 05:30:00,wind_only,-1.41,2.676,0.14,10.0,0.0,,,0.0,,
+BAMNET02,2025-05-05 23:45:00,temperature_only,,,,,,,,,,

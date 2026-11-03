@@ -1,0 +1,6 @@
+station_id,n_valid_days,n_coldpool_events,resample_days,n_bootstrap,rate_naive,rate_bootstrap_mean,rate_bootstrap_sd,rate_bootstrap_se
+BAMNET01,347,62,100,1000,5.36,5.359,1.189,0.0376
+BAMNET02,197,48,100,1000,7.31,7.234,1.298,0.041
+BAMNET03,331,42,100,1000,3.807,3.8,1.012,0.032
+BAMNET04,317,21,100,1000,1.987,1.968,0.789,0.0249
+BAMNET05,333,12,100,1000,1.081,1.085,0.567,0.0179
