@@ -1,0 +1,20 @@
+{
+  "Analisis_Meeting_BAMNET.xlsx": "e924bee59a2b8925e8242f9e1cc9954b4e22058ac30c0653186f3ffcea1b63a1",
+  "BAMNET_2025_Deteksi_1menit.xlsx": "da7094883b50e02e921157259aea10f7294ca930b397e7116fa757d8f4ac602e",
+  "BAMNET_2025_Deteksi_5menit.xlsx": "0df3947f5073126dcf13d856b113242851b8d2f357207108722d2b56813336f7",
+  "BAMNET_Analisis_Meeting_Lengkap.zip": "3292ac1fa76f56567df3ef817898b5cc16670c30fb0e01aa26177d0383fa9b4a",
+  "Bahan_Meeting_BAMNET.pdf": "b65b1b94b2de0f1034da86fa0d199ef0217783b2ff565fba42734b44147bf542",
+  "Komposit_6panel_187.png": "fb4161c006118bc32a6dfc3076ac6b4996fbdd950c637984f5f978b574cfb9a8",
+  "LAPORAN_MEETING.md": "c3bf38ac1a87eea7e6f846bb08e6c201a377213b3228fbd4cbb29736afc09a5e",
+  "coldpool_flexible.py": "9dab7d93966e475793113f2bd4dd74805d55d5805ce0733b90a0197536ac380b",
+  "plots/composite_6panel_187.pdf": "9baa652b193570593f0d72d2ffb84f1fa96dd6ad67bf99077e0c3686f6c2c21a",
+  "plots/composite_6panel_187.png": "fb4161c006118bc32a6dfc3076ac6b4996fbdd950c637984f5f978b574cfb9a8",
+  "plots/composite_6panel_187_zoom.png": "bcf1df59ba5011e6015d0437704f17e491814a3d6c7fb20d02d781c479dae4e4",
+  "plots/monotonic_actual_example.png": "ec4c1c50529bfee2a1b5c0dd2d7d3335fa5eb16d3323bd4e94b0a9c9c40c99c4",
+  "plots/monotonic_code_explanation.png": "6d328e911f7ee74c6d9233547da370db3d8cfd21049a892f684467329da65d92",
+  "plots/overlap_sensitivity.png": "436ad0b4256163b5a467463fd9cfaa985f82a011268b050a6c08a9b5876eba08",
+  "plots/temperature_only_wind_analysis.pdf": "89c6c3ffa71feb9d8f7e91f8281f47dddca12cfc15b15818196cf0c0c291d095",
+  "plots/temperature_only_wind_analysis.png": "03547154558cf9eda32153d2d0d4ec72a75d7ae862fd62d64c85a13223235d1d",
+  "plots/vector_geometry.png": "49113ab39463a289152e2256830a7fc0875b0f2354dd828b08618884794e8027",
+  "requirements.txt": "3f2afec1af84f707ff7882c8d4101405de7235ac09076a6e1ce1a5b2bfcd5c14"
+}
