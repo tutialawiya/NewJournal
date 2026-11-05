@@ -9,6 +9,7 @@ Klik nama file, lalu klik **Download raw file** (ikon unduh) di kanan atas tampi
 - [Excel full detection 5 menit](BAMNET_2025_Deteksi_5menit.xlsx): **197 cold pool, 2.294 wind-only, 178 temperature-only**.
 - [Excel full detection 1 menit](BAMNET_2025_Deteksi_1menit.xlsx): **187 cold pool, 4.117 wind-only, 148 temperature-only**.
 - [PDF bahan meeting, 10 halaman](Bahan_Meeting_BAMNET.pdf).
+- [English meeting briefing, 11 pages](BAMNET_Meeting_Briefing_English.pdf): all headings and explanatory text in English, including a dedicated explanation of onset-centered normalization, X(t) − X(0).
 - [Excel analisis overlap, temperature-only, arah, baseline, dan komposit](Analisis_Meeting_BAMNET.xlsx).
 - [ZIP lengkap analisis meeting: kode, tabel, grafik, dan laporan](BAMNET_Analisis_Meeting_Lengkap.zip).
 - [Grafik komposit 6 panel, 187 cold pool](Komposit_6panel_187.png).
