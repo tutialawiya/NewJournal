@@ -1,0 +1,16 @@
+category,tolerance_minutes,old_valid,new_valid,matches
+coldpool,0,187,310,153
+coldpool,5,187,310,176
+coldpool,10,187,310,180
+coldpool,20,187,310,187
+coldpool,30,187,310,187
+temperature_only,0,91,148,75
+temperature_only,5,91,148,89
+temperature_only,10,91,148,90
+temperature_only,20,91,148,91
+temperature_only,30,91,148,91
+wind_only,0,4117,4000,4000
+wind_only,5,4117,4000,4000
+wind_only,10,4117,4000,4000
+wind_only,20,4117,4000,4000
+wind_only,30,4117,4000,4000

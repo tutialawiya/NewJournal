@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "controlled_tests": 3,
+  "only_monotonic_algorithm_changed": true,
+  "independent_actual_event_checks": 458,
+  "counts": {
+    "wind_only": 4000,
+    "coldpool": 310,
+    "temperature_only": 205
+  },
+  "QA_count": 57,
+  "composite_shape": [
+    310,
+    161
+  ],
+  "composite_coverage": [
+    {
+      "min_n": 302,
+      "max_n": 310,
+      "finite_at_onset": 310
+    },
+    {
+      "min_n": 302,
+      "max_n": 310,
+      "finite_at_onset": 310
+    },
+    {
+      "min_n": 302,
+      "max_n": 310,
+      "finite_at_onset": 310
+    }
+  ],
+  "extreme_samples_for_review": 11,
+  "extreme_events_for_review": 7,
+  "matches_vs_original_5min_at_20min": 189,
+  "matches_vs_old_1min_at_20min": 187,
+  "definition": "five centered 5-minute means at t-5,t,t+5,t+10,t+15; means use center-2..center+2; four nonpositive increments; raw drop tests unchanged"
+}

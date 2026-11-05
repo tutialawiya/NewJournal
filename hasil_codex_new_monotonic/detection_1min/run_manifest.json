@@ -1,0 +1,27 @@
+{
+  "timing": {
+    "resolution_minutes": 1,
+    "temperature_before_minutes": 5,
+    "temperature_after_minutes": 15,
+    "initial_drop_minutes": 5,
+    "wind_before_minutes": 20,
+    "wind_after_minutes": 40,
+    "wind_reference_minutes": 120,
+    "anomaly_reference_minutes": 1440,
+    "fallback_lag_minutes": 80,
+    "event_gap_minutes": 20
+  },
+  "boundary_policy": "legacy",
+  "year": 2025,
+  "input_file_count": 57,
+  "counts": {
+    "wind_only": 4000,
+    "coldpool": 310,
+    "temperature_only": 205
+  },
+  "wind_input": "maximum wind_speed in 1-minute bins",
+  "time_zone": "UTC; t0_WIB is UTC+7",
+  "satellite_verified": false,
+  "monotonic_method": "four increments between five centered 5-minute means; only monotonicity changed",
+  "monotonic_support_at_1min": "means centered t-5,t,t+5,t+10,t+15, each center-2..center+2; total support t-7..t+17"
+}

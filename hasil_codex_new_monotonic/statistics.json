@@ -1,0 +1,124 @@
+{
+  "temperature_all_legacy": 205,
+  "temperature_QA": 57,
+  "temperature_valid": 148,
+  "speed_sign_valid": {
+    "increase": 81,
+    "decrease": 61,
+    "missing": 5,
+    "unchanged": 1
+  },
+  "speed_sign_all205": {
+    "increase": 104,
+    "decrease": 87,
+    "missing": 13,
+    "unchanged": 1
+  },
+  "speed_change_deadband_01ms_valid": {
+    "increase": 73,
+    "decrease": 54,
+    "within_0.1ms": 16,
+    "missing": 5
+  },
+  "delta_speed_distribution": {
+    "count": 143.0,
+    "mean": 0.187012987012987,
+    "std": 0.8107110700001878,
+    "min": -1.8609523809523805,
+    "10%": -0.6813333333333336,
+    "25%": -0.31690476190476186,
+    "50%": 0.10952380952380958,
+    "75%": 0.6364285714285716,
+    "90%": 1.0979999999999996,
+    "max": 4.542380952380951
+  },
+  "direction_reliable_count": 131,
+  "direction_groups_reliable": {
+    "cross_45to135": 50,
+    "aligned_0to45": 45,
+    "opposed_135to180": 36
+  },
+  "absolute_direction_change_reliable": {
+    "count": 131.0,
+    "mean": 87.20897519296435,
+    "std": 58.62621387698338,
+    "min": 1.3067502734753873,
+    "25%": 30.78947211942679,
+    "50%": 96.21767730161207,
+    "75%": 141.99313568609713,
+    "max": 179.82048968535366
+  },
+  "baseline_delta_speed_spearman": {
+    "n": 143,
+    "rho": -0.4894596932145921,
+    "p": 5.524916237414803e-10
+  },
+  "baseline_peak_change_spearman": {
+    "n": 143,
+    "rho": -0.11733431826698902,
+    "p": 0.16282729507169608
+  },
+  "baseline_quartiles": [
+    {
+      "baseline_bin": "(0.408, 1.269]",
+      "n": 36,
+      "baseline_mean": 1.0007671957671957,
+      "delta_mean": 0.6556481481481481,
+      "delta_median": 0.619285714285714,
+      "increase_fraction": 0.9166666666666666
+    },
+    {
+      "baseline_bin": "(1.269, 1.862]",
+      "n": 36,
+      "baseline_mean": 1.5086640211640212,
+      "delta_mean": 0.35285714285714287,
+      "delta_median": 0.20785714285714285,
+      "increase_fraction": 0.6111111111111112
+    },
+    {
+      "baseline_bin": "(1.862, 2.356]",
+      "n": 35,
+      "baseline_mean": 2.1203537414965985,
+      "delta_mean": -0.060925170068027196,
+      "delta_median": -0.22142857142857197,
+      "increase_fraction": 0.34285714285714286
+    },
+    {
+      "baseline_bin": "(2.356, 5.393]",
+      "n": 36,
+      "baseline_mean": 3.1774074074074075,
+      "delta_mean": -0.20641534391534389,
+      "delta_median": -0.246428571428571,
+      "increase_fraction": 0.3888888888888889
+    }
+  ],
+  "speed_vs_gust": [
+    {
+      "category": "coldpool",
+      "n_catalog": 310,
+      "n_paired": 308,
+      "mean_speed_increase_fraction": 0.7532467532467533,
+      "mean_gust_increase_fraction": 0.7564935064935064,
+      "median_mean_speed_change": 0.6828571428571432,
+      "median_mean_gust_change": 1.184761904761905,
+      "median_peak_speed_change": 2.2645238095238094,
+      "median_peak_gust_change": 3.888095238095239
+    },
+    {
+      "category": "temperature_only",
+      "n_catalog": 148,
+      "n_paired": 143,
+      "mean_speed_increase_fraction": 0.5664335664335665,
+      "mean_gust_increase_fraction": 0.5314685314685315,
+      "median_mean_speed_change": 0.10952380952380958,
+      "median_mean_gust_change": 0.07904761904761948,
+      "median_peak_speed_change": 1.2019047619047623,
+      "median_peak_gust_change": 1.7461904761904758
+    }
+  ],
+  "monotonic_example": {
+    "station": "BAMNET01",
+    "t0": "2025-01-06 07:15:00",
+    "positive_1min_increments": 1
+  }
+}
