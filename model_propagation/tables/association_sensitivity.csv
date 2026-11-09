@@ -1,0 +1,5 @@
+window_minutes,groups,single_station,at_least_2,at_least_3,at_least_4,at_least_5,repeated_station_groups
+60,155,123,32,9,0,0,1
+90,150,115,35,10,1,0,1
+120,146,108,38,11,1,0,1
+180,143,103,40,11,2,0,1

@@ -1,0 +1,5 @@
+model,unknowns,p,minimum_arrivals_for_local_count,note
+"circle, no wind","x0,y0,t0,c",4,4,4 observations leave zero residual df; nonlinear/global uniqueness not guaranteed
+"circle, prescribed wind","x0,y0,t0,c",4,4,"wind prescribed, not inferred; unknown wind would add 2 parameters"
+"ellipse, prescribed wind","x0,y0,t0,c,axis_ratio,orientation",6,6,cannot freely identify from at most 5 single-pass BAMNET arrivals
+real-data conditional scenarios,"x0,y0,t0",3,3,"speed, wind, shape are fixed assumptions; not independent estimates"

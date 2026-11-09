@@ -1,0 +1,86 @@
+{
+  "source_catalog": "hasil_codex_new_monotonic/catalogs/5min/all_events.csv",
+  "source_catalog_sha256": "d53533ccdf59f0fae3d4f618ad81cd34e38a4889f7eb9ead0ffb79bff53da747",
+  "coldpool_count": 197,
+  "source_resolution_minutes": 5,
+  "reference_projection": {
+    "longitude_origin": 100.32516159999999,
+    "latitude_origin": -0.5341604,
+    "projection": "local equirectangular, km; planar approximation",
+    "principal_spreads_km": [
+      30.068602717656667,
+      3.2544904512491226
+    ],
+    "minor_major_spread_ratio": 0.1082355067113925,
+    "principal_axis_degrees_CCW_from_east": 58.600261138138265,
+    "altitude_range_m": [
+      27.0,
+      130.0,
+      421.0,
+      725.0,
+      945.0
+    ]
+  },
+  "association_window_minutes": 180,
+  "association_sensitivity": [
+    {
+      "window_minutes": 60,
+      "groups": 155,
+      "single_station": 123,
+      "at_least_2": 32,
+      "at_least_3": 9,
+      "at_least_4": 0,
+      "at_least_5": 0,
+      "repeated_station_groups": "1"
+    },
+    {
+      "window_minutes": 90,
+      "groups": 150,
+      "single_station": 115,
+      "at_least_2": 35,
+      "at_least_3": 10,
+      "at_least_4": 1,
+      "at_least_5": 0,
+      "repeated_station_groups": "1"
+    },
+    {
+      "window_minutes": 120,
+      "groups": 146,
+      "single_station": 108,
+      "at_least_2": 38,
+      "at_least_3": 11,
+      "at_least_4": 1,
+      "at_least_5": 0,
+      "repeated_station_groups": "1"
+    },
+    {
+      "window_minutes": 180,
+      "groups": 143,
+      "single_station": 103,
+      "at_least_2": 40,
+      "at_least_3": 11,
+      "at_least_4": 2,
+      "at_least_5": 0,
+      "repeated_station_groups": "1"
+    }
+  ],
+  "candidate_groups_with_at_least_3": 11,
+  "candidate_groups_with_4": 2,
+  "free_ellipse_real_data": "not fitted: at most four associated detections, fewer than six free parameters",
+  "synthetic_MC": "35 uniform independent \u00b12.5-minute timing perturbations per model; assumes correct model and fixed wind",
+  "real_profile": {
+    "group_id": "G059",
+    "start_UTC": "2025-06-28 05:10:00",
+    "stations": [
+      "BAMNET01",
+      "BAMNET03",
+      "BAMNET04",
+      "BAMNET05"
+    ],
+    "grid_best_rmse_minutes": 2.5853778994552417,
+    "near_optimal_grid_cells": 431
+  },
+  "seed": 20261109,
+  "units": "km, minutes, m/s; angle degrees CCW from east",
+  "real_fits": "hypotheses conditional on association, fixed speed/shape/wind and domain; not validated origins"
+}

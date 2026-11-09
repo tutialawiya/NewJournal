@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "unit_tests": 7,
+  "input_197_verified": true,
+  "equation_support": {
+    "eq2": 188,
+    "eq3": 9
+  },
+  "event_membership_exactly_once": true,
+  "synthetic_max_source_error_km": 3.552713678800501e-15,
+  "synthetic_max_rmse_minutes": 8.862024919584478e-15,
+  "equally_good_free_ellipse_solutions_on_5_sites": 35,
+  "ellipse_source_x_range_km": [
+    -14.218395985019434,
+    -2.777568154443506
+  ],
+  "real_group_count": 143,
+  "groups_with_at_least_3": 11,
+  "groups_with_4": 2,
+  "groups_with_5": 0,
+  "real_example": "G059",
+  "real_example_case_is_conditional_not_validated": true,
+  "synthetic_animation_frames": 61,
+  "real_animation_frames": 57,
+  "origin_time_bound_flags_added": 12
+}

@@ -1,0 +1,4 @@
+event_id,station_id,u_before,v_before,n_background,group_id
+CP5-072,BAMNET02,0.746,1.096,5,G048
+CP5-073,BAMNET03,0.28600000000000003,1.596,5,G048
+CP5-074,BAMNET04,1.246,1.262,5,G048

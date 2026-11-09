@@ -1,0 +1,287 @@
+[
+  {
+    "path": "BAMNET01/bamnet01_AWS_Level2monthly_202501.nc",
+    "bytes": 45104653,
+    "sha256": "9520b824e10b2fa278fdf62963c4edcea0a903dc63933fa8ef57c8d1327d3663"
+  },
+  {
+    "path": "BAMNET01/bamnet01_AWS_Level2monthly_202502.nc",
+    "bytes": 41255696,
+    "sha256": "bc33e4adbd3726e84e1a63209df58c55886c3fcc5d5e9397101c558dd92c7647"
+  },
+  {
+    "path": "BAMNET01/bamnet01_AWS_Level2monthly_202503.nc",
+    "bytes": 22657973,
+    "sha256": "106a2ca06148c21224deb0a247b34b7ac587b7292aa20eda1965f9f82a30e90f"
+  },
+  {
+    "path": "BAMNET01/bamnet01_AWS_Level2monthly_202504.nc",
+    "bytes": 43299129,
+    "sha256": "e46a5a35ca1d1bade595d9b8b4f699db08650e964c50a0156792659ed173be7f"
+  },
+  {
+    "path": "BAMNET01/bamnet01_AWS_Level2monthly_202505.nc",
+    "bytes": 44957320,
+    "sha256": "1126f5e3e304da57795f108b6af78cbfcab75083e18ace896f7b3f547e1e2594"
+  },
+  {
+    "path": "BAMNET01/bamnet01_AWS_Level2monthly_202506.nc",
+    "bytes": 43567350,
+    "sha256": "d667555efc777a138b9ef3b093ba905bb29b92c6b1ad621a08e23c35b8c4cadd"
+  },
+  {
+    "path": "BAMNET01/bamnet01_AWS_Level2monthly_202507.nc",
+    "bytes": 44533796,
+    "sha256": "e963bd3fc7424b031f3f03aeedc32e1a0fef48758324c23d355f0635ac05b09f"
+  },
+  {
+    "path": "BAMNET01/bamnet01_AWS_Level2monthly_202508.nc",
+    "bytes": 44902175,
+    "sha256": "93ffa0df5f2268349350a45905004c2ab0611cff43831bc81b1477ae8b5d78ed"
+  },
+  {
+    "path": "BAMNET01/bamnet01_AWS_Level2monthly_202509.nc",
+    "bytes": 42820146,
+    "sha256": "1b606f96c317f48a6868cf8ebe5c9d8d89dc671c7639d4887862bdbc3d6602e6"
+  },
+  {
+    "path": "BAMNET01/bamnet01_AWS_Level2monthly_202510.nc",
+    "bytes": 44281634,
+    "sha256": "e4cc5622b1324ee4e5d88e14d826da7b2b998bdb2bc606d8189f3ea602b39de1"
+  },
+  {
+    "path": "BAMNET01/bamnet01_AWS_Level2monthly_202511.nc",
+    "bytes": 42624860,
+    "sha256": "a3eb99aa0f2a7867529a01ac5661050270e92cbdc52ad80c4c83d31ff66b0250"
+  },
+  {
+    "path": "BAMNET01/bamnet01_AWS_Level2monthly_202512.nc",
+    "bytes": 45004352,
+    "sha256": "126de6d72d74cc144a020f893c794a9f074170b720c41fa98b0aae79f972e349"
+  },
+  {
+    "path": "BAMNET02/bamnet02_AWS_Level2monthly_202501.nc",
+    "bytes": 30568069,
+    "sha256": "31c72bd7c2fc9084b52d6bb4ce110ccdc393a0b2237200359c07744aad24355f"
+  },
+  {
+    "path": "BAMNET02/bamnet02_AWS_Level2monthly_202502.nc",
+    "bytes": 32790216,
+    "sha256": "e03498f3c91e8da0ffc7103adff49971755c59e909bac5502ebdea1b958c6b1b"
+  },
+  {
+    "path": "BAMNET02/bamnet02_AWS_Level2monthly_202503.nc",
+    "bytes": 44766295,
+    "sha256": "eeeeb68f8dc11db3e5962519de7a573a2b627126417440d660123cc722e299b3"
+  },
+  {
+    "path": "BAMNET02/bamnet02_AWS_Level2monthly_202504.nc",
+    "bytes": 42691491,
+    "sha256": "dc531357b537de6f878114f3070234dd3a290a49b68829b82f5e46824abfb4d8"
+  },
+  {
+    "path": "BAMNET02/bamnet02_AWS_Level2monthly_202505.nc",
+    "bytes": 7910622,
+    "sha256": "ccff562ca80085882ce040a66e923da3af0190227998a6c171042069f3e83a87"
+  },
+  {
+    "path": "BAMNET02/bamnet02_AWS_Level2monthly_202509.nc",
+    "bytes": 10022209,
+    "sha256": "ddd4a8fac8a06c3daa4990441a7f4e8997548de1c602469fa740f5e6beadc92e"
+  },
+  {
+    "path": "BAMNET02/bamnet02_AWS_Level2monthly_202510.nc",
+    "bytes": 43932433,
+    "sha256": "02ab1e8789df45e4d3d75c98a8b522a1bd897abe3502a25ff46f4ff0b72811c0"
+  },
+  {
+    "path": "BAMNET02/bamnet02_AWS_Level2monthly_202511.nc",
+    "bytes": 36808584,
+    "sha256": "a2b51ef90bc8062302d7cbcade52645ca3f7613c91b8059bf0786105166892bd"
+  },
+  {
+    "path": "BAMNET02/bamnet02_AWS_Level2monthly_202512.nc",
+    "bytes": 37541758,
+    "sha256": "c608d90b8e23863f7303eeac66b75d506d5d0ff3d802a812dfe82de5e4a3d4c5"
+  },
+  {
+    "path": "BAMNET03/bamnet03_AWS_Level2monthly_202501.nc",
+    "bytes": 24526937,
+    "sha256": "097c81c285d541312eccd5ec2633d310e37262864f519e4cb2c6d01edf8a3e7c"
+  },
+  {
+    "path": "BAMNET03/bamnet03_AWS_Level2monthly_202502.nc",
+    "bytes": 41668038,
+    "sha256": "be7b209f0d65e31688a235a872e5daca6bd60541de7db1c209f0851b72df11bf"
+  },
+  {
+    "path": "BAMNET03/bamnet03_AWS_Level2monthly_202503.nc",
+    "bytes": 45493875,
+    "sha256": "4386c562044f244d87ee9c6fa448c7dc19ce692e54faf59499aa6578139a26cd"
+  },
+  {
+    "path": "BAMNET03/bamnet03_AWS_Level2monthly_202504.nc",
+    "bytes": 43384300,
+    "sha256": "4728a591885b152b05f1c470935fadb96e127aa533277a062e3901b45b02b8b7"
+  },
+  {
+    "path": "BAMNET03/bamnet03_AWS_Level2monthly_202505.nc",
+    "bytes": 43334278,
+    "sha256": "a379776423c702d9d171c6e55522f103cc6c7571539c65527607aad001b97d2b"
+  },
+  {
+    "path": "BAMNET03/bamnet03_AWS_Level2monthly_202506.nc",
+    "bytes": 42427446,
+    "sha256": "8c5eb1d87d9969f7952399fae067f2115a089effef5e8996cb38410465f43e8f"
+  },
+  {
+    "path": "BAMNET03/bamnet03_AWS_Level2monthly_202507.nc",
+    "bytes": 42932431,
+    "sha256": "2001fbf4f63e44f064165eb95d8a8eb637d40a418b5d91103413c09259bfef08"
+  },
+  {
+    "path": "BAMNET03/bamnet03_AWS_Level2monthly_202508.nc",
+    "bytes": 43259952,
+    "sha256": "393ed2f5de4b44fd9f436a51a78b27ff0fdcf860f52952cf67586e58d8bed707"
+  },
+  {
+    "path": "BAMNET03/bamnet03_AWS_Level2monthly_202509.nc",
+    "bytes": 41281653,
+    "sha256": "30ed5ec313d4760ca869152797e9d33547e7e23dfa33eeb0ad93a74ac25a93a6"
+  },
+  {
+    "path": "BAMNET03/bamnet03_AWS_Level2monthly_202510.nc",
+    "bytes": 43548971,
+    "sha256": "cb385242e9207af08f27b3430c60011630ee2ecaaabe5f789d62d80ff8e1eb5b"
+  },
+  {
+    "path": "BAMNET03/bamnet03_AWS_Level2monthly_202511.nc",
+    "bytes": 33898593,
+    "sha256": "42d1cd7484be6c839a2dd3ef92959af7eb4206c5f480f0a6be082ce8471e332c"
+  },
+  {
+    "path": "BAMNET03/bamnet03_AWS_Level2monthly_202512.nc",
+    "bytes": 28952141,
+    "sha256": "cbbefd9a405d4981978f937b7c1db77a4a7b8d8e3838a3a06474e06cf780a504"
+  },
+  {
+    "path": "BAMNET04/bamnet04_AWS_Level2monthly_202501.nc",
+    "bytes": 13593922,
+    "sha256": "1e8053848e09c7daad6abbfa880bb3b8b2d2343443df93e5a31a55b60a8f4f46"
+  },
+  {
+    "path": "BAMNET04/bamnet04_AWS_Level2monthly_202502.nc",
+    "bytes": 40771727,
+    "sha256": "395e6f5f3ab469d990d43355c0752ae0803552cabb6f855e3ef6b75610689d09"
+  },
+  {
+    "path": "BAMNET04/bamnet04_AWS_Level2monthly_202503.nc",
+    "bytes": 44658070,
+    "sha256": "abdb46e55ff3a1c0f012416b21db413ecf69e84796276903eab712e95813f5c8"
+  },
+  {
+    "path": "BAMNET04/bamnet04_AWS_Level2monthly_202504.nc",
+    "bytes": 42721289,
+    "sha256": "2b8c682d105cd79d3eb591044fcc90b86eed84a0c2f044d7052514b4c405e250"
+  },
+  {
+    "path": "BAMNET04/bamnet04_AWS_Level2monthly_202505.nc",
+    "bytes": 44461888,
+    "sha256": "ee32ff01c4770ef63a7411c33762c82d72fce0a3a86139fd732d698aa7422137"
+  },
+  {
+    "path": "BAMNET04/bamnet04_AWS_Level2monthly_202506.nc",
+    "bytes": 43437127,
+    "sha256": "9e537cf657678ef7d4b80aa93fd6cecc94424fa8663ac162a6169dce61e92eda"
+  },
+  {
+    "path": "BAMNET04/bamnet04_AWS_Level2monthly_202507.nc",
+    "bytes": 44077367,
+    "sha256": "238ce352e0b7380617f810aa8d9bf1c312334d31727cbc7ded00a42afdd12363"
+  },
+  {
+    "path": "BAMNET04/bamnet04_AWS_Level2monthly_202508.nc",
+    "bytes": 44333879,
+    "sha256": "1246b1d6359521661840bd60fea6562dc40079ecd8e7b6b5b8f532298695da04"
+  },
+  {
+    "path": "BAMNET04/bamnet04_AWS_Level2monthly_202509.nc",
+    "bytes": 42073501,
+    "sha256": "2fc9c95436b339cd0cde0e33c393779d4aab29b7abf2f185733e9ed41294144f"
+  },
+  {
+    "path": "BAMNET04/bamnet04_AWS_Level2monthly_202510.nc",
+    "bytes": 44274162,
+    "sha256": "b81b606d1bb27763e6d8477fcd12bfadaed869c17c9b15de68d9fccaa7e191d6"
+  },
+  {
+    "path": "BAMNET04/bamnet04_AWS_Level2monthly_202511.nc",
+    "bytes": 35775969,
+    "sha256": "864030a24db935c88e16962a82487f3ee29cdad1855f818b80ff37e7a03f0db7"
+  },
+  {
+    "path": "BAMNET04/bamnet04_AWS_Level2monthly_202512.nc",
+    "bytes": 16409275,
+    "sha256": "4ab752bc2266fa1db9e4b0b3b7d35dcfe8b7ed9bdbec316fc1d634730d63a512"
+  },
+  {
+    "path": "BAMNET05/bamnet05_AWS_Level2monthly_202501.nc",
+    "bytes": 37332748,
+    "sha256": "b9f03aa1cfadef087914ad0d81588280a808b64fb00d43ec42dd7a4a028e5906"
+  },
+  {
+    "path": "BAMNET05/bamnet05_AWS_Level2monthly_202502.nc",
+    "bytes": 40287842,
+    "sha256": "1e5d703391256fca8fba4391088082ccca091253269db09d2c61cde2a1e2b9da"
+  },
+  {
+    "path": "BAMNET05/bamnet05_AWS_Level2monthly_202503.nc",
+    "bytes": 17982030,
+    "sha256": "02c6df046ceb64e0aae7a4414d08b2ca27b9ed9c2a300e3cae4fa49a81e499e4"
+  },
+  {
+    "path": "BAMNET05/bamnet05_AWS_Level2monthly_202504.nc",
+    "bytes": 31454775,
+    "sha256": "478b141e89719d6fedba2c1641694836dcd9768ab4e699cbe6a50274126aa92f"
+  },
+  {
+    "path": "BAMNET05/bamnet05_AWS_Level2monthly_202505.nc",
+    "bytes": 46155960,
+    "sha256": "df5f90e54c93c8b2caa1faa6bfed71b7507ab4aeba113a9231e11e226f36b94a"
+  },
+  {
+    "path": "BAMNET05/bamnet05_AWS_Level2monthly_202506.nc",
+    "bytes": 44966725,
+    "sha256": "28bde2113da67d72f4ab3e5c0a97076b5073d8b57fc168b32afeb5b7d6dd1945"
+  },
+  {
+    "path": "BAMNET05/bamnet05_AWS_Level2monthly_202507.nc",
+    "bytes": 45780899,
+    "sha256": "c9b6989c38c78a5ba45a786d897af941366ef5da402e9e73e87394e272e6dce3"
+  },
+  {
+    "path": "BAMNET05/bamnet05_AWS_Level2monthly_202508.nc",
+    "bytes": 45824286,
+    "sha256": "1ce1f8978d4b120ce09c9d3d59824803748d56422ab937bf0a9691be723bc0bd"
+  },
+  {
+    "path": "BAMNET05/bamnet05_AWS_Level2monthly_202509.nc",
+    "bytes": 43425946,
+    "sha256": "40b851cbee516d0df56f55ee72077b08228e0509b3b9070e15e791768fb9ea97"
+  },
+  {
+    "path": "BAMNET05/bamnet05_AWS_Level2monthly_202510.nc",
+    "bytes": 45830301,
+    "sha256": "76d1a4684daa23b31027e8c546999abb296e5ee9f2b394f29a41ec0d62f1832d"
+  },
+  {
+    "path": "BAMNET05/bamnet05_AWS_Level2monthly_202511.nc",
+    "bytes": 43983844,
+    "sha256": "4c5cb0ec9747b4bdfe6a26c28a42ae7970ce809be403408a51f1925b54f0285c"
+  },
+  {
+    "path": "BAMNET05/bamnet05_AWS_Level2monthly_202512.nc",
+    "bytes": 43728234,
+    "sha256": "20cd5e85a64cf16f340be29f0eef37f64edf2cf94c8709fdf120bef4d7c5c821"
+  }
+]

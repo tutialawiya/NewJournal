@@ -1,0 +1,18 @@
+{
+  "longitude_origin": 100.32516159999999,
+  "latitude_origin": -0.5341604,
+  "projection": "local equirectangular, km; planar approximation",
+  "principal_spreads_km": [
+    30.068602717656667,
+    3.2544904512491226
+  ],
+  "minor_major_spread_ratio": 0.1082355067113925,
+  "principal_axis_degrees_CCW_from_east": 58.600261138138265,
+  "altitude_range_m": [
+    27.0,
+    130.0,
+    421.0,
+    725.0,
+    945.0
+  ]
+}
