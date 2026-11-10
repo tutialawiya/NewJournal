@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "rows": 121,
+  "previous_temperature_only": 44,
+  "previous_wind_only": 5,
+  "no_assigned_previous_event": 72,
+  "all_actual_joint_confirmation_anchors": true,
+  "eq2_confirmations": 115,
+  "eq3_confirmations": 6,
+  "threshold_numeric_checks": true,
+  "excel_rows_verified": true
+}

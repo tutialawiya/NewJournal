@@ -1,0 +1,25 @@
+{
+  "additional": 121,
+  "previous_labels": {
+    "no_matched_5min_event_within20": 72,
+    "temperature_only": 44,
+    "wind_only": 5
+  },
+  "by_station": {
+    "BAMNET03": 30,
+    "BAMNET01": 30,
+    "BAMNET04": 22,
+    "BAMNET02": 21,
+    "BAMNET05": 18
+  },
+  "confirmed_joint_anchors": 121,
+  "reasons": {
+    "No 5-min thermal candidate within20; temperature sampling/drop/monotonic or missing-data difference": 72,
+    "Previously temperature-only: 1-min wind/episode alignment now confirms thermal episode": 44,
+    "Previously wind-only: new raw-temperature/mean-monotonic candidate now overlaps wind episode": 5
+  },
+  "new_wind_equations": {
+    "eq2": 115,
+    "eq3": 6
+  }
+}
